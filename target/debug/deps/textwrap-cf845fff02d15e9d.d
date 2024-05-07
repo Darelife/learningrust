@@ -1,0 +1,11 @@
+E:\Programming\Rust\learningrust\target\debug\deps\libtextwrap-cf845fff02d15e9d.rmeta: C:\Users\asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.13.4\src\lib.rs C:\Users\asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.13.4\src\indentation.rs C:\Users\asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.13.4\src\splitting.rs C:\Users\asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.13.4\src\core.rs C:\Users\asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.13.4\src\core\optimal_fit.rs
+
+E:\Programming\Rust\learningrust\target\debug\deps\libtextwrap-cf845fff02d15e9d.rlib: C:\Users\asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.13.4\src\lib.rs C:\Users\asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.13.4\src\indentation.rs C:\Users\asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.13.4\src\splitting.rs C:\Users\asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.13.4\src\core.rs C:\Users\asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.13.4\src\core\optimal_fit.rs
+
+E:\Programming\Rust\learningrust\target\debug\deps\textwrap-cf845fff02d15e9d.d: C:\Users\asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.13.4\src\lib.rs C:\Users\asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.13.4\src\indentation.rs C:\Users\asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.13.4\src\splitting.rs C:\Users\asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.13.4\src\core.rs C:\Users\asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.13.4\src\core\optimal_fit.rs
+
+C:\Users\asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.13.4\src\lib.rs:
+C:\Users\asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.13.4\src\indentation.rs:
+C:\Users\asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.13.4\src\splitting.rs:
+C:\Users\asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.13.4\src\core.rs:
+C:\Users\asus\.cargo\registry\src\index.crates.io-6f17d22bba15001f\textwrap-0.13.4\src\core\optimal_fit.rs:
